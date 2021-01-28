@@ -6,6 +6,12 @@ import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
 import Login from "./pages/login/Login";
 import Profile from "./pages/profile/Profile";
 import Schedule from "./pages/schedule/Schedule";
+import Classest from "./lessons/teacher/Classest";
+import Editchapter from "./lessons/teacher/Editchapter";
+import Editdeadlines from "./lessons/teacher/Editdeadlines";
+import Lessont from "./lessons/teacher/Lessont";
+import ClassStudent from "./lessons/student/Class";
+import ClassesStudent from "./lessons/student/Classes";
 
 
 function App() {
@@ -27,6 +33,28 @@ function App() {
 			<Route path='/schedule'>
 			  <Schedule/>
 			</Route>
+			{/*TEACHER*/}
+			<Route path='/teacher/classest'>
+			  <Classest/>
+			</Route>
+			<Route path='/teacher/editchapter'>
+			  <Editchapter/>
+			</Route>
+			<Route path='/teacher/editdeadlines'>
+			  <Editdeadlines/>
+			</Route>
+			<Route path='/teacher/lessont'>
+			  <Lessont/>
+			</Route>
+			{/*STUDENT*/}
+			<Route path='/student/class'>
+			  <ClassStudent/>
+			</Route>
+			<Route path='/student/classes'>
+			  <ClassesStudent/>
+			</Route>
+
+
 			<Route path='*'>
 			  <div>No page found</div>
 			</Route>

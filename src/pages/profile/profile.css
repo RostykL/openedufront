@@ -7,7 +7,6 @@
     width: 550px;
     z-index: -1;
     transform: skew(-30deg);
-    background-color: rgba(30, 156, 132, 0.4);
 }
 
 .skew-block-bottom {
@@ -18,7 +17,6 @@
     width: 550px;
     z-index: -1;
     transform: skew(-30deg);
-    background-color: rgba(30, 156, 132, 0.3);
 }
 
 

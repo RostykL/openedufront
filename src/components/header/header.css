@@ -37,7 +37,7 @@
     margin-left: 50px;
 }
 
-.nav-links-list li:hover {
+.nav-links-list li a:hover {
     cursor: pointer;
     transition: all 0.3s ease;
     color: rgb(30, 156, 132);

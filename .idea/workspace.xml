@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15e1d304-9af6-46d8-9ac9-04f6e90778d7" name="Default Changelist" comment="" />
+    <list default="true" id="15e1d304-9af6-46d8-9ac9-04f6e90778d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/news/SmallNews.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/news/SmallNews.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/profile/Profile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/profile/profile.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/profile/profile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/schedule/Schedule.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/schedule/Schedule.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/schedule/schedule.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/schedule/schedule.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,11 +32,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lessons/teacher" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/lessons/teacher" />
+      <recent name="$PROJECT_DIR$/src/lessons/student" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/lessons" />
       <recent name="$PROJECT_DIR$/src/pages" />
       <recent name="$PROJECT_DIR$/src/components/news" />
       <recent name="$PROJECT_DIR$/src/components" />
@@ -57,7 +73,9 @@
       <updated>1611164260580</updated>
       <workItem from="1611164261766" duration="112000" />
       <workItem from="1611500315495" duration="14699000" />
-      <workItem from="1611715633566" duration="15423000" />
+      <workItem from="1611715633566" duration="15569000" />
+      <workItem from="1611780852347" duration="1918000" />
+      <workItem from="1611854564377" duration="2706000" />
     </task>
     <servers />
   </component>

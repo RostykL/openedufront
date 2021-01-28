@@ -19,11 +19,13 @@ function OneNews({text}) {
 	return text + '...';
   }
 
+  const manageDate = (date) => date.substring(0,3)
+
   return <div className="one-news">
 	<div className="wrapper-img-date">
 	  <div className="small-news-date">
 		<span className="date">23</span>
-		<span className="month">Грудень</span>
+		<span className="month">{manageDate("Грудень")}</span>
 	  </div>
 	  <div className="small-news-photo"></div>
 	</div>

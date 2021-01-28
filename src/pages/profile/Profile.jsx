@@ -4,7 +4,7 @@ import {ColorExtractor} from "react-color-extractor";
 import {useState} from "react";
 
 function Profile() {
-  const [commonColor, setCommonColor] = useState('#1e9c84')
+  const [commonColor, setCommonColor] = useState()
 
   return <div className="profile">
 	<div className="skew-block" style={{backgroundColor: `${commonColor}`, opacity: '0.4'}}/>
